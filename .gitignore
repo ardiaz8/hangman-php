@@ -1,0 +1,14 @@
+# Ignorar archivos y carpetas comunes
+*.log
+*.tmp
+*.cache
+
+# Configuración del entorno local
+.env
+
+# Archivos específicos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de PHPStorm/IDE específicos
+.idea/
